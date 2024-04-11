@@ -89,3 +89,6 @@
     animation: ani-mouse 2s linear infinite;
 }
 
+.rounded {
+    border-radius: 50%;
+  }

@@ -1,6 +1,6 @@
 import React from 'react';
 import "./about.css";
-import Image from "../../assets/avatar-1.svg";
+import Image from "../../assets/Chih-Yu Huang.svg";
 import AboutBox from './AboutBox';
 
 const About = () => {
@@ -9,7 +9,7 @@ const About = () => {
       <h2 className="section__title">About Me</h2>
 
       <div className="about__container grid">
-        <img src={Image} alt="" className="about__img" />
+        <img src={Image} alt="" className="about__img rounded" />
 
         <div className="about__data grid">
           <div className="about__info">
