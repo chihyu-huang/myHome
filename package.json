@@ -1,6 +1,6 @@
 {
   "homepage": "https://chihyu-huang.github.io/myHome",
-  "name": "testproject",
+  "name": "myHome",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
