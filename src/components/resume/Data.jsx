@@ -4,16 +4,16 @@ const Data = [
         category: "education",
         icon: "icon-graduation",
         title: "MSc in Computer Science",
-        year: "2022 - 2023",
-        desc: "I am currently pursuing my MSc in Computer Science at the University of Toronto. I am specializing in Machine Learning and Data Mining. I am also working as a Research Assistant at the University of Toronto."
+        year: "Sep 2022 - Aug 2023",
+        desc: "I completed my HDip in Computer Science at University College Dublin (UCD). I specialize in Software Development and Data Science."
     },
     {
         id: 2,
         category: "education",
         icon: "icon-graduation",
-        title: "BSc in Computer Science",
-        year: "2018 - 2022",
-        desc: "I completed my BSc in Computer Science at the University of Toronto. I graduated with a GPA of 3.9. I was also a member of the Computer Science Club and the Data Science Club."
+        title: "HDip in Computer Science",
+        year: "Sep 2021 - Aug 2022",
+        desc: "I completed my HDip in Computer Science at the University of Toronto. I graduated with a GPA of 3.9. I was also a member of the Computer Science Club and the Data Science Club."
     },
     {
         id: 3,

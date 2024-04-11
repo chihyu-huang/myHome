@@ -8,20 +8,20 @@ const data =[
   {
     id: 1,
     image: Image1,
-    title: "Web Development",
-    description: "We build websites that serve as powerful marketing tools and bring memorable brand experiences.",
+    title: "Software Development",
+    description: "Equipped to build user-friendly and functional mobile applications. From sleek interfaces to complex functionalities to ensure your app meets the highest standards",
   },
   {
     id: 2,
     image: Image2,
-    title: "Mobile App Development",
-    description: "Our versatile app developers are always equipped to build mobile applications that are user-friendly and functional.",
+    title: "Web Development",
+    description: "Craft websites as powerful marketing tools, delivering memorable brand experiences. With responsive designs and robust backend systems, I create sites that leave a lasting impression",
   },
   {
     id: 3,
     image: Image3,
-    title: "Graphic Design",
-    description: "We offer unique and creative designs that are made to suit your brand’s requirements.",
+    title: "Data Analysis",
+    description: "Offer unique and creative designs tailored to the needs of brands. Uncovering valuable insights for informed decision-making and providing actionable recommendations to drive your business forward",
   },
 ];
 

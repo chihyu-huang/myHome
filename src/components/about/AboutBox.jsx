@@ -3,7 +3,7 @@ import React from 'react'
 const AboutBox = () => {
   return (
     <div className="about__boxes grid">
-        <div className="about__box">
+        {/* <div className="about__box">
             <i className="about__icon icon-fire"></i>
             <div>
                 <h3 className="about__title">198</h3>
@@ -33,7 +33,7 @@ const AboutBox = () => {
                 <h3 className="about__title">35</h3>
                 <span className="about__substitle">Nominees Winner</span>
             </div>
-        </div>
+        </div> */}
     </div>
   )
 }

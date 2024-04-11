@@ -14,8 +14,7 @@ const About = () => {
         <div className="about__data grid">
           <div className="about__info">
             <p className="about__description">
-              I'm a software engineer based in Dublin, Irealnd
-              specializing in building (and occasionally designing) exceptional,
+              I'm a software engineer based in Dublin, Irealnd specializing in building and designing exceptional,
                high-quality websites and applications.
             </p>
             <a href="" className="btn">Download CV</a>
@@ -25,7 +24,7 @@ const About = () => {
             
             <div className="skills_data">
               <div className="skills__titles">
-                <h3 className="skills__name">Development</h3>
+                <h3 className="skills__name">Software Development</h3>
                   <span className="skills__number">90%</span>
               </div>
 
@@ -36,7 +35,7 @@ const About = () => {
             
             <div className="skills_data">
               <div className="skills__titles">
-                <h3 className="skills__name">skill2</h3>
+                <h3 className="skills__name">Data Analysis</h3>
                   <span className="skills__number">80%</span>
               </div>
 
@@ -47,8 +46,8 @@ const About = () => {
             
             <div className="skills_data">
               <div className="skills__titles">
-                <h3 className="skills__name">skill3</h3>
-                  <span className="skills__number">60%</span>
+                <h3 className="skills__name">Website Development</h3>
+                  <span className="skills__number">80%</span>
               </div>
 
               <div className="skills__bar">
