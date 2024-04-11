@@ -10,8 +10,8 @@ const Home = () => {
       <div className="intro">
         
         <img src={Me} alt="" className="home__img rounded" />
-        <h1 className="home_name">Chih-Yu Huang</h1>
-        <span className="home_education">I'm a software engineer</span>
+        <h1 className="home_name">Chih-Yu (Joy) Huang</h1>
+        <span className="home_education">Software Engineer <br></br>Dublin, Ireland</span>
 
         <HeaderSocials/>
 

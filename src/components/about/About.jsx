@@ -35,7 +35,7 @@ const About = () => {
             
             <div className="skills_data">
               <div className="skills__titles">
-                <h3 className="skills__name">Data Analysis</h3>
+                <h3 className="skills__name">Website Development</h3>
                   <span className="skills__number">80%</span>
               </div>
 
@@ -46,7 +46,7 @@ const About = () => {
             
             <div className="skills_data">
               <div className="skills__titles">
-                <h3 className="skills__name">Website Development</h3>
+                <h3 className="skills__name">Data Analysis</h3>
                   <span className="skills__number">80%</span>
               </div>
 
