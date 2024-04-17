@@ -20,6 +20,7 @@ const Resume = () => {
                   title={val.title} 
                   year = {val.year} 
                   desc={val.desc}
+                  desc2={val.desc2}
                 />
               )
             }})} 
@@ -29,8 +30,13 @@ const Resume = () => {
           {Data.map((val, index) => {
             if(val.category === "experience") {
               return (
-                <Card key={index} icon={val.icon} title={val.title} 
-                      year = {val.year} desc={val.desc}/>
+                <Card key={index} 
+                      icon={val.icon} 
+                      title={val.title} 
+                      year = {val.year} 
+                      desc={val.desc} 
+                      desc2={val.desc2}
+                />
               )
             }
           })} 

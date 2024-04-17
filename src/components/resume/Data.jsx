@@ -5,7 +5,8 @@ const Data = [
         icon: "icon-graduation",
         title: "MSc in Computer Science",
         year: "Sep 2022 - Aug 2023",
-        desc: "I completed my HDip in Computer Science at University College Dublin (UCD). I specialize in Software Development and Data Science."
+        desc: "University College Dublin (UCD)",
+        desc2: "Specialize in Software Development and Data Science."
     },
     {
         id: 2,
@@ -13,15 +14,15 @@ const Data = [
         icon: "icon-graduation",
         title: "HDip in Computer Science",
         year: "Sep 2021 - Aug 2022",
-        desc: "I completed my HDip in Computer Science at the University of Toronto. I graduated with a GPA of 3.9. I was also a member of the Computer Science Club and the Data Science Club."
+        desc: "I completed my HDip in Computer Science at National College of Ireland(NCI) with 1:1 Hons degree.<br>I specialize in Software Development and Data Science."
     },
     {
         id: 3,
         category: "education",
         icon: "icon-graduation",
-        title: "BSc in Computer Science",
-        year: "2018 - 2022",
-        desc: "I completed my BSc in Computer Science at the University of Toronto. I graduated with a GPA of 3.9. I was also a member of the Computer Science Club and the Data Science Club."
+        title: "BA in Land Economics (Geo-Information)",
+        year: "2015 - 2019",
+        desc: "I completed my BSc in BA in Land Economics (Geo-Information) at National Chengchi University(NCCU).<br>I specialize in Geographic Information System (GIS) and Remote Sensing."
     },
     {
         id: 4,
@@ -29,7 +30,7 @@ const Data = [
         icon: "icon-briefcase",
         title: "Software Developer",
         year: "2022 - Present",
-        desc: "I am working as a Software Developer at Google. I am responsible for developing and maintaining software applications. I am also working on a project to develop a new software application for Google."
+        desc: "I am working as a Software Developer at Google.<br>I am responsible for developing and maintaining software applications.<br>I am also working on a project to develop a new software application for Google."
     },
     {
         id: 5,
@@ -37,7 +38,7 @@ const Data = [
         icon: "icon-briefcase",
         title: "Data Scientist",
         year: "2021 - 2022",
-        desc: "I worked as a Data Scientist at IBM. I was responsible for analyzing and interpreting complex data sets. I also developed machine learning models to predict customer behavior."
+        desc: "I worked as a Data Scientist at IBM.<br>I was responsible for analyzing and interpreting complex data sets.<br>I also developed machine learning models to predict customer behavior."
     },
     {
         id: 6,
@@ -45,9 +46,8 @@ const Data = [
         icon: "icon-briefcase",
         title: "Data Scientist",
         year: "2021 - 2022",
-        desc: "I worked as a Data Scientist at IBM. I was responsible for analyzing and interpreting complex data sets. I also developed machine learning models to predict customer behavior."
+        desc: "I worked as a Data Scientist at IBM.<br>I was responsible for analyzing and interpreting complex data sets.<br>I also developed machine learning models to predict customer behavior."
     }
 ];
-
 
 export default Data;

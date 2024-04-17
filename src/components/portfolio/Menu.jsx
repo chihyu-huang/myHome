@@ -9,38 +9,38 @@ const Menu = [
     {
         id: 1,
         image: Work1,
-        title: "Project Management Illustration",
-        category: "Design",
+        title: "A",
+        category: "Software Development",
     },
     {
         id: 2,
         image: Work2,
-        title: "Racing Poster",
-        category: "Branding",
+        title: "B",
+        category: "Web Development",
     },
     {
         id: 3,
         image: Work3,
-        title: "Instagram Content",
-        category: "Creative",
+        title: "C",
+        category: "Data Analysis",
     },
     {
         id: 4,
         image: Work4,
-        title: "Apartment Illustration",
-        category: "Design",
+        title: "D",
+        category: "Game Development",
     },
     {
         id: 5,
         image: Work5,
-        title: "Social Media",
-        category: "Art",
+        title: "E",        
+        category: "Software Development",
     },
     {
         id: 6,
         image: Work6,
-        title: "Web Design",
-        category: "Design",
+        title: "F",
+        category: "Software Development",
     }
 ]
 
