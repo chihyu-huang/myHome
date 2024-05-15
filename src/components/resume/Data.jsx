@@ -14,7 +14,8 @@ const Data = [
         icon: "icon-graduation",
         title: "HDip in Computer Science",
         year: "Sep 2021 - Aug 2022",
-        desc: "I completed my HDip in Computer Science at National College of Ireland(NCI) with 1:1 Hons degree.<br>I specialize in Software Development and Data Science."
+        desc: "I completed my HDip in Computer Science at National College of Ireland(NCI) with 1:1 Hons degree.",
+        desc2: "I specialize in Software Development and Data Science."
     },
     {
         id: 3,
@@ -22,7 +23,8 @@ const Data = [
         icon: "icon-graduation",
         title: "BA in Land Economics (Geo-Information)",
         year: "2015 - 2019",
-        desc: "I completed my BSc in BA in Land Economics (Geo-Information) at National Chengchi University(NCCU).<br>I specialize in Geographic Information System (GIS) and Remote Sensing."
+        desc: "I completed my BA in Land Economics (Geo-Information) at National Chengchi University(NCCU)",
+        desc2: "I specialize in Geographic Information System (GIS) and Remote Sensing."
     },
     {
         id: 4,
@@ -30,7 +32,8 @@ const Data = [
         icon: "icon-briefcase",
         title: "Software Developer",
         year: "2022 - Present",
-        desc: "I am working as a Software Developer at Google.<br>I am responsible for developing and maintaining software applications.<br>I am also working on a project to develop a new software application for Google."
+        desc: "I am working as a Software Developer at Google",
+        desc2: "I am responsible for developing and maintaining software applications. I am also working on a project to develop a new software application for Google."
     },
     {
         id: 5,
