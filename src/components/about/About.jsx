@@ -11,16 +11,23 @@ const About = () => {
       <div className="about__container grid">
         <img src={Image} alt="" className="about__img rounded" />
 
-        <div className="about__data grid">
+        <div className="about__data">
           <div className="about__info">
             <p className="about__description">
-              I'm a software engineer based in Dublin, Irealnd specializing in building and designing exceptional,
-               high-quality websites and applications.
+              {/* I'm a software engineer based in Dublin, Irealnd specializing in building and designing exceptional,
+               high-quality websites and applications. */}
+               
+               Hi, I'm Chih-Yu (Joy) Huang, a freelance software engineer based in Dublin, Ireland. 
+               With a passion for crafting robust and scalable solutions, 
+               I specialize in designing and developing microservices with a variety of technologies including Java, Python, JavaScript, PHP, React.js, and C#. 
+               My dedication to quality and customer satisfaction drives me to deliver end-to-end solutions that meet the unique needs of each project. 
+               
+
             </p>
             <a href="" className="btn">Download CV</a>
           </div>
 
-          <div className="about__skills grid">
+          {/* <div className="about__skills grid">
             
             <div className="skills_data">
               <div className="skills__titles">
@@ -57,7 +64,7 @@ const About = () => {
 
             
 
-          </div>
+          </div> */}
         </div>
       </div>
 
