@@ -12,13 +12,16 @@ const HeaderSocials = () => {
         <i class="fa-brands fa-github"></i>
         </a>
 
-        <a href="https://www.youtube.com/" className="home__social-link" target="_blank">
-        <i class="fa-brands fa-youtube"></i>
-        </a> 
-      
         <a href="mailto:chihyu.huang.joy@gmail.com" className="home__social-link" target="_blank">
         <i class="fa-solid fa-envelope"></i>
         </a>
+
+
+
+        {/* <a href="https://www.youtube.com/" className="home__social-link" target="_blank">
+        <i class="fa-brands fa-youtube"></i>
+        </a>  */}
+      
 
       </div>
     </div>

@@ -155,6 +155,10 @@ img {
   font-weight: var(--font-bold);
 }
 
+.btn:hover {
+  background-color: hsl(353, 100%, 55%);
+}
+
 @keyframes button-push {
   50% {
     transform: scale(0.8);

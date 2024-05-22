@@ -24,7 +24,7 @@ const About = () => {
                
 
             </p>
-            <a href="" className="btn">Download CV</a>
+            <a href="" className="btn" >Download CV</a>
           </div>
 
           {/* <div className="about__skills grid">
